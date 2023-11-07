@@ -1,2 +1,2 @@
 # demo
-Author - Nitish kumar
+Author - Nitish kumar dangi
